@@ -1,0 +1,25 @@
+{
+    "completions": [
+        {
+            "id": 3001,
+            "lead_time": 6.632,
+            "result": [
+                {
+                    "from_name": "sentiment",
+                    "id": "R1u1MTLtCC",
+                    "to_name": "text",
+                    "type": "choices",
+                    "value": {
+                        "choices": [
+                            "Positive"
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "text": " He is good "
+    },
+    "id": 3
+}

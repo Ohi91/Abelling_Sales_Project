@@ -1,0 +1,25 @@
+{
+    "completions": [
+        {
+            "id": 4001,
+            "lead_time": 3.082,
+            "result": [
+                {
+                    "from_name": "sentiment",
+                    "id": "C8Jx1fnqae",
+                    "to_name": "text",
+                    "type": "choices",
+                    "value": {
+                        "choices": [
+                            "Negative"
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "text": "She is bad"
+    },
+    "id": 4
+}

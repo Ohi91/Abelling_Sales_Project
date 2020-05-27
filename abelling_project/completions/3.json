@@ -1,0 +1,25 @@
+{
+    "completions": [
+        {
+            "id": 3001,
+            "lead_time": 15.762,
+            "result": [
+                {
+                    "from_name": "Output",
+                    "id": "CMySADMu_6",
+                    "to_name": "text",
+                    "type": "choices",
+                    "value": {
+                        "choices": [
+                            "Low Priority"
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "text": "Name: Text IQ\nCategories: Artificial Intelligence, Compliance, Enterprise Software, Information Technology, Machine Learning\nHQ-location: San Francisco, California, United States\nShort-Desc: Text IQ uses groundbreaking AI technology to protect companies from high-stakes legal and compliance disasters.\nCB-Rank: 294\nFounded: 2014\nEstimated-Revenue: -\nAcquired-By: -\nTotal-Funding: 15600000\n"
+    },
+    "id": 3
+}

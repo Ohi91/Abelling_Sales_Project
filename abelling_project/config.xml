@@ -1,0 +1,8 @@
+<View>
+  <Text name="text" value="$text"></Text>
+  <Choices name="Output" toName="text" choice="single">
+    <Choice value="High Priority"></Choice>
+    <Choice value="Medium Priority"></Choice>
+    <Choice value="Low Priority"></Choice>
+  </Choices>
+</View>

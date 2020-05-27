@@ -1,0 +1,25 @@
+{
+    "completions": [
+        {
+            "id": 2001,
+            "lead_time": 5.288,
+            "result": [
+                {
+                    "from_name": "sentiment",
+                    "id": "DoxD6GbbAZ",
+                    "to_name": "text",
+                    "type": "choices",
+                    "value": {
+                        "choices": [
+                            "Negative"
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "text": "I am a bad girl"
+    },
+    "id": 2
+}

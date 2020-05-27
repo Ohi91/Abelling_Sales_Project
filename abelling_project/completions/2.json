@@ -1,0 +1,25 @@
+{
+    "completions": [
+        {
+            "id": 2001,
+            "lead_time": 3.814,
+            "result": [
+                {
+                    "from_name": "Output",
+                    "id": "HbuyliIG4X",
+                    "to_name": "text",
+                    "type": "choices",
+                    "value": {
+                        "choices": [
+                            "Low Priority"
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "text": "Name: Tara AI\nCategories: Artificial Intelligence, Developer Tools, Enterprise Software, Information Technology, Machine Learning, Software Engineering\nHQ-location: San Jose, California, United States\nShort-Desc: Tara AI is the Smart Scoping Platform, leveraging machine learning to help product teams be on-time, on-budget and on-roadmap.\nCB-Rank: 248\nFounded: 2016\nEstimated-Revenue: -\nAcquired-By: -\nTotal-Funding: 13000000\n"
+    },
+    "id": 2
+}

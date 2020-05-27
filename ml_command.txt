@@ -1,0 +1,3 @@
+label-studio-ml init my_ml_backend --script label_studio/ml/examples/abelling_model.py --force
+label-studio-ml start my_ml_backend
+label-studio start abelling_project --init --template text_classification --ml-backends http://localhost:9090 --force

@@ -1,0 +1,25 @@
+{
+    "completions": [
+        {
+            "id": 1,
+            "lead_time": 34.45,
+            "result": [
+                {
+                    "from_name": "sentiment",
+                    "id": "fAJ1VHeDj_",
+                    "to_name": "text",
+                    "type": "choices",
+                    "value": {
+                        "choices": [
+                            "Neutral"
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "text": "To have faith is to trust yourself to the water"
+    },
+    "id": 0
+}

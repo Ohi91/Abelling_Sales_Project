@@ -1,0 +1,25 @@
+{
+    "completions": [
+        {
+            "id": 1,
+            "lead_time": 74.042,
+            "result": [
+                {
+                    "from_name": "Output",
+                    "id": "M20sup8R5T",
+                    "to_name": "text",
+                    "type": "choices",
+                    "value": {
+                        "choices": [
+                            "High Priority"
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "text": "Name: Google\nCategories: Ad Network, Artificial Intelligence, Blogging Platforms, Collaboration, Email, Enterprise Software, Information Technology, Machine Learning, Search Engine, Video Streaming\nHQ-location: Mountain View, California, United States\nShort-Desc: Google is a multinational corporation that is specialized in internet-related services and products.\nCB-Rank: 125\nFounded: 1998\nEstimated-Revenue: $10B+\nAcquired-By: -\nTotal-Funding: 36100000\n"
+    },
+    "id": 0
+}
